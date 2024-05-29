@@ -32,5 +32,5 @@ This is a simple web application for college classmates to share and connect wit
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/yourusername/linkedin-network.git
+   git clone https://github.com/Avinash01-GIT/LinkedinNetwork.git
    cd linkedin-network
